@@ -1,0 +1,4 @@
+This howto explains how to use Raspberry Zero W as a programmer for nrf52 dongle.
+How to SSH into RPi with Mac: https://desertbot.io/blog/ssh-into-pi-zero-over-usb
+From Terminal (Mac): ssh pi@raspberrypi.local (password: raspberry)
+How to 
