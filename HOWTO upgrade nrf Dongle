@@ -1,0 +1,6 @@
+HOWTO upgrade nrf Dongle with newer (or older) version of CircuitPython
+1. Backup files
+2. Download latest version .UF2 https://circuitpython.org/board/pca10059/
+3. Double click reset button https://infocenter.nordicsemi.com/topic/ug_nc_programmer/UG/nrf_connect_programmer/ncp_programming_dongle.html
+4. Drive mounted as NRF52BOOT
+5. Copy .UF2 file to NRF52BOOT
