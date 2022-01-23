@@ -32,8 +32,8 @@ for char in hello:
         led.value = True
         time.sleep(1*UNIT_DURATION)
     elif char == "_":
-        print(" letterspace ")
-        time.sleep(7*UNIT_DURATION)
+        print(" wordspace ")
+        time.sleep(1*UNIT_DURATION)
     else:
         print( "ERROR ")
         # not valid, just ignore
